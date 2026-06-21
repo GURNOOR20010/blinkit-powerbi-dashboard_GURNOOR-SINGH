@@ -2,12 +2,6 @@
 
 A Power BI dashboard project that analyzes Blinkit's sales performance, customer preferences, outlet distribution, and product categories. This dashboard provides actionable insights through interactive visualizations and KPIs.
 
-## 📊 Dashboard Preview
-
-![Blinkit Dashboard](Screenshot.png)
-
-> Replace `Screenshot.png` with your dashboard screenshot file name.
-
 ---
 
 ## 🚀 Project Overview
@@ -112,6 +106,6 @@ The dataset contains information related to:
 
 ### Dashboard Overview
 
-![Dashboard Screenshot](Screenshot.png)
+[![Dashboard Screenshot](Screenshot.png)](https://github.com/GURNOOR20010/blinkit-powerbi-dashboard_GURNOOR-SINGH/blob/main/GURNOORBLINKITDASHBOARD.png)
 
 ---
